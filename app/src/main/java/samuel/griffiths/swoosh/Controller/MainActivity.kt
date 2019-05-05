@@ -1,9 +1,9 @@
-package samuel.griffiths.swoosh
+package samuel.griffiths.swoosh.Controller
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
+import samuel.griffiths.swoosh.R
 
 // AppCompatActivity lets you use older APK versions
 class MainActivity : BaseActivity() {
